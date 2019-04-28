@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a tongue model from MRI data of the [Ultrax project][1] and of [Adam Baker][2].
+This repository contains a tongue model derived from MRI data of the [Ultrax project][1] and of [Adam Baker][2].
 
 ## Components
 
