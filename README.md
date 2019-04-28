@@ -44,4 +44,4 @@ Have a look at [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://crea
 [2]: http://adambaker.org/qmu.php
 [3]: https://github.com/m2ci-msp/mri-shape-tools
 [4]: https://github.com/ahewer/mri-shape-tools/blob/master/dataFormats/model.md
-[4]: https://github.com/ahewer/mri-shape-tools/blob/master/dataFormats/modelJson.md
+[5]: https://github.com/ahewer/mri-shape-tools/blob/master/dataFormats/modelJson.md
